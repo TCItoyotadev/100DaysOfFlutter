@@ -15,10 +15,10 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/splash.gif": "04bb6ae43a121a329f8b30e10682907a",
-"index.html": "20b1606c03efecca825fd56ea77a99e8",
-"/": "20b1606c03efecca825fd56ea77a99e8",
+"index.html": "2440f13774d6dc7623f754b1f87357f8",
+"/": "2440f13774d6dc7623f754b1f87357f8",
 "logo_flutter.png": "67642a0b80f3d50277c44cde8f450e50",
-"main.dart.js": "856ef5fc1467ad701ec4fb3cf278576c",
+"main.dart.js": "2e8d8715e488b21781c040637dc0d6f7",
 "manifest.json": "fde50d9761c7e623e2d95811ee7b93cf",
 "styles.css": "e2247ce8fc6909224c183a1eea69140a"
 };
